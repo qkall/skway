@@ -1,0 +1,51 @@
+
+/* Space to setup configversion */
+/* configversion: 2ecca20b604bc0b37d13aba5a0fabc07 */
+window {
+    margin: 5px;
+    border: 3px solid rgba(74, 27, 74,0.9); /* keep purple border */
+    background-color: rgba(34,34,34,0.70); /* semi-transparent */
+    font-family: Sxmo;
+    font-size: 12pt;
+}
+
+#input {
+    margin: 5px;
+    border: 2px solid rgba(74, 27, 74,0.9);
+    background-color: rgba(68,68,68,0.75); /* more transparent */
+    color: rgba(255,255,255,0.95);
+}
+
+#inner-box {
+    margin: 5px;
+    background-color: transparent;
+}
+
+#outer-box {
+    margin: 5px;
+    background-color: transparent;
+}
+
+#scroll {
+    color: rgba(255,255,0,0.95);
+}
+
+#text {
+    margin: 5px;
+    color: rgba(255,255,255,0.95);
+} 
+
+#img {
+    padding-right: 25px;
+    background-color: transparent;
+}
+#entry {
+    padding-top: 8px;
+    background-color: transparent;
+}
+#entry:selected {
+    background-color: rgba(74, 27, 74,0.75); /* translucent selection */
+}
+#entry #entry {
+    background-color: rgba(68,68,68,0.70);
+}
