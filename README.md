@@ -2,7 +2,7 @@
 i have a lot to update ... might be easier to ping me @qkall:beeper.com or federated socials posted below
 
 <p align="center">
-  <img src="images/logo.png" alt="Project Logo" width="200" height="auto">
+  <img src="logo.png" alt="Project Logo" width="200" height="auto">
 </p>
 
 it's sxmo postmarketos with a lot of customization
