@@ -4,7 +4,7 @@
   <img src="logoatl.jpg" alt="Project Logo" width="200" height="auto">
 </p>
 
-it's sxmo postmarketos with a lot of customization
+it's sxmo dotfiles nura with a lot of customization
 
 beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
 
