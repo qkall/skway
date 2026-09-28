@@ -1,5 +1,4 @@
 #sxmorican
-i have a lot to update ... might be easier to ping me @qkall:beeper.com or federated socials posted below
 
 <p align="center">
   <img src="logoatl.jpg" alt="Project Logo" width="200" height="auto">
@@ -38,5 +37,7 @@ wvkbd-mobintl with suggapicker and swipeGess
 gomuks web (currently my favorite matrix client) with beeper.com for lazy bridges
 
 wofi
+
+i have a lot to update ... might be easier to ping me @qkall:beeper.com or federated socials posted below
 
 https://friendica.world/profile/qkall
