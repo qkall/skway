@@ -34,5 +34,5 @@ notable apps I use (check installed apps for apk world full list)
 
 
 i have a lot to update ... might be easier to ping me
-* @qkall:beeper.com 
+* matrix - @qkall:beeper.com 
 * https://friendica.world/profile/qkall
