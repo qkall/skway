@@ -30,7 +30,9 @@ wpaperd - dissolve transition, super slow
 * gomuks web (currently my favorite matrix client) with beeper.com for lazy bridges 
 * wofi 
 
-* very light ai usage... mostly when nuance things were annoying (specific colors or used to learn things like bullets in a readme lol)
+
+* very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things like bullets in a readme lol)
+
 
 i have a lot to update ... might be easier to ping me @qkall:beeper.com or federated socials posted below
 
