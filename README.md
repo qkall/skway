@@ -34,6 +34,7 @@ wpaperd - dissolve transition, super slow
 * very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things like bullets in a readme lol)
 
 
-i have a lot to update ... might be easier to ping me @qkall:beeper.com or federated socials posted below
-
-https://friendica.world/profile/qkall
+i have a lot to update ... might be easier to ping me
+* @qkall:beeper.com 
+ federated socials posted below
+* https://friendica.world/profile/qkall
