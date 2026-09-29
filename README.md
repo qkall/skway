@@ -18,16 +18,16 @@ Major thanks to
 
 notable apps I use (check installed apps for apk world full list)
 
-* wpaperd - dissolve transition, super slow 
-* foot - people hate my theme for it... but I'm happy lol 
-* yazi 
-* pfetch-rs 
-* wf-recorder 
+* wpaperd - dissolve transition, super slow
+* foot - people hate my theme for it... but I'm happy lol
+* yazi
+* pfetch-rs
+* wf-recorder
 * librewolf with firefox minima css & tridactly addon for a qutebrowser experience
-* qutebrowser 
-* wvkbd-mobintl with suggapicker and swipeGess 
-* gomuks web (currently my favorite matrix client) with beeper.com for lazy bridges 
-* wofi 
+* qutebrowser
+* wvkbd-mobintl with suggapicker and swipeGess
+* gomuks web (currently my favorite matrix client) with beeper.com for lazy bridges
+* wofi
 
 
 * very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things new to me like scripts and like bullets in a readme lol)
