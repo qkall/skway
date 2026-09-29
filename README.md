@@ -36,5 +36,4 @@ wpaperd - dissolve transition, super slow
 
 i have a lot to update ... might be easier to ping me
 * @qkall:beeper.com 
- federated socials posted below
 * https://friendica.world/profile/qkall
