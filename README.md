@@ -7,8 +7,7 @@
 it's sxmo dotfiles for nura with a lot of customization and cherry picked and sloppily made userscripts and hooks
 
 beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
-
-https://css.gomuks.app/theme/draculaflow
+* theme - https://css.gomuks.app/theme/draculaflow
 
 
 Major thanks to 
@@ -19,7 +18,7 @@ Major thanks to
 
 notable apps I use (check installed apps for apk world full list)
 
-wpaperd - dissolve transition, super slow 
+* wpaperd - dissolve transition, super slow 
 * foot - people hate my theme for it... but I'm happy lol 
 * yazi 
 * pfetch-rs 
@@ -31,7 +30,7 @@ wpaperd - dissolve transition, super slow
 * wofi 
 
 
-* very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things like bullets in a readme lol)
+* very light ai usage... mostly when nuance things were annoying (specific colors, cleaning up rough edits on logo,  or used to learn things new to me like scripts and like bullets in a readme lol)
 
 
 i have a lot to update ... might be easier to ping me
