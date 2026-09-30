@@ -4,7 +4,7 @@
   <img src="logoatl.jpg" alt="Project Logo" width="200" height="auto">
 </p>
 
-it's sxmo dotfiles for nura with a lot of customization and cherry picked and sloppily made userscripts and hooks
+it's sxmo dotfiles for nura with a lot of customization and cherry picked and sloppily made userscripts and hooks.  I eventually landed on sxmorican for two reasons. One, I'm Puerto Rican... Two, 'rico' is rich, so it's a rich (in love) collection to sxmo. 
 
 beeper/gomuks web (https://docs.mau.fi/gomuks/installation.html)
 * theme - https://css.gomuks.app/theme/draculaflow
